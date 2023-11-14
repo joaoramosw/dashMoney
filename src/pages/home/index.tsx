@@ -1,4 +1,5 @@
 export function HomePage(){
-    return
+    return(
     <h1>Olá Home</h1>
+    )
 }
